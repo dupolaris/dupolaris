@@ -1,8 +1,9 @@
-### Hi there 👋
-**!"It's always been done this way"**
+# 👋
+### 🌱🐛🚀
+**"Debug Sprout – Watch your bugs grow before they go!"**
+___
+**🌱🔭 Finding Niche ...**
 
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c798ba8bda28d9914a4620?variant=dark)](https://roadmap.sh)
 <!--
 **dupolaris/dupolaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
